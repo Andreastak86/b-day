@@ -1,23 +1,28 @@
 body {
     text-align: center;
-    font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    font-family: "Happy Monkey", cursive;
+    background: linear-gradient(#6114dd, #af07b4);
     color: #ffffff;
 }
 
-h1, h2, h3, h4, p {
+h1,
+h2,
+h3,
+h4,
+p {
     text-shadow: 0 0 1px black;
 }
 
 #bff-img {
-    width: 150px;
-    border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    width: 250px;
+    height: 200px;
+    border-radius: 80%;
+    border: 6px solid purple;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #efb0c9;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -25,7 +30,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #EFB0C9;
+    background: #efb0c9;
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -48,7 +53,6 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-
 .gift-img {
     margin: 20px auto;
     max-width: 500px;
@@ -60,23 +64,23 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("https://c.tenor.com/W06knTv2yOUAAAAM/jetha-dance.gif");
+    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("https://c.tenor.com/qVBYFQgW4u4AAAAC/oh-hey-there-flirty.gif");
+    background-image: url("https://media.giphy.com/media/KHKJGDrMLywqsf4wCv/giphy.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("https://c.tenor.com/kskoNFKJo6IAAAAC/epic-borat.gif");
+    background-image: url("https://media.giphy.com/media/kFWgdGpecYMoMllcEC/giphy.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("https://c.tenor.com/dibyxe8EPiQAAAAC/chuck-norris-chuck.gif");
+    background-image: url("https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("https://c.tenor.com/0c51JllcCTwAAAAC/snoop-dogg-cheers.gif");
+    background-image: url("https://media.giphy.com/media/R6lPTIdF54Uo0/giphy.gif");
 }
 
 #footer {
